@@ -32,6 +32,8 @@ All rights to the original work remain with their respective copyright holders.
 
 ```bash
 sudo apt install build-essential cmake pkg-config libsdl2-dev
+mkdir src
+# save or copy the file main.cpp in this folder!
 mkdir build
 cd build
 cmake ..
